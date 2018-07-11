@@ -1,0 +1,18 @@
+Package: com.mologie.NXBoot
+Version: 0.0.2-2
+Architecture: iphoneos-arm
+Maintainer: Oliver Kuckertz <oliver.kuckertz+nxboot@mologie.de>
+Depends: firmware(>=10.0)
+Filename: ./com.mologie.NXBoot-0.0.2-2.deb
+Size: 1137170
+MD5sum: 93231730c6ff23498a8794e0c12de1f3
+SHA1: 079874269ac0dc0997db45a888f61a1a20e754db
+SHA256: 19ec5fa7255c84fbaf12de4b8818d589e5b34a81cdb76492a75559d51dbb9ade
+Section: Utilities
+Homepage: https://mologie.github.io/nxboot/
+Description: Nintendo Switch Tegra X1 RCM exploit (Fusée Gelée / ShofEL2)
+Author: Oliver Kuckertz <oliver.kuckertz+nxboot@mologie.de>
+Depiction: https://mologie.github.io/nxboot/cydia-depiction.html
+Icon: file:///Applications/NXBoot.app/PackageIcon.png
+Name: NXBoot
+
