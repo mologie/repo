@@ -3,7 +3,7 @@ Version: 0.0.2-2
 Architecture: iphoneos-arm
 Maintainer: Oliver Kuckertz <oliver.kuckertz+nxboot@mologie.de>
 Depends: firmware(>=10.0)
-Filename: ./com.mologie.NXBoot-0.0.2-2.deb
+Filename: pool/com.mologie.NXBoot_0.0.2-2_iphoneos-arm.deb
 Size: 1137170
 MD5sum: 93231730c6ff23498a8794e0c12de1f3
 SHA1: 079874269ac0dc0997db45a888f61a1a20e754db
@@ -21,7 +21,7 @@ Version: 0.0.3-3
 Architecture: iphoneos-arm
 Maintainer: Oliver Kuckertz <oliver.kuckertz+nxboot@mologie.de>
 Depends: firmware(>=10.0)
-Filename: ./com.mologie.NXBoot-0.0.3-3.deb
+Filename: pool/com.mologie.NXBoot_0.0.3-3_iphoneos-arm.deb
 Size: 1137310
 MD5sum: 45c4647d898839d5445739065371d36c
 SHA1: ba7ea77d4727b794d650890cea095ed66217cc76
@@ -39,7 +39,7 @@ Version: 0.1.0-4
 Architecture: iphoneos-arm
 Maintainer: Oliver Kuckertz <oliver.kuckertz+nxboot@mologie.de>
 Depends: firmware(>=10.0)
-Filename: ./com.mologie.NXBoot-0.1.0-4.deb
+Filename: pool/com.mologie.NXBoot_0.1.0-4_iphoneos-arm.deb
 Size: 1139448
 MD5sum: 754f1d75fda6e142be87e9dde2fd9b76
 SHA1: a94039dec7b2eaf7aed0462619e4021fd4be6f7f
@@ -57,7 +57,7 @@ Version: 0.1.1-5
 Architecture: iphoneos-arm
 Maintainer: Oliver Kuckertz <oliver.kuckertz+nxboot@mologie.de>
 Depends: firmware(>=10.0)
-Filename: ./com.mologie.NXBoot-0.1.1-5.deb
+Filename: pool/com.mologie.NXBoot_0.1.1-5_iphoneos-arm.deb
 Size: 1220762
 MD5sum: 4c978e3fefbd445af29764f069fd1d4f
 SHA1: 33ec0394ee94897167dd710cfc4c43813cdd0383
