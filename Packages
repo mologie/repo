@@ -106,3 +106,39 @@ Depiction: https://mologie.github.io/nxboot/cydia-depiction.html
 Icon: file:///Applications/NXBoot.app/PackageIcon.png
 Name: NXBoot
 
+Package: com.mologie.NXBoot
+Version: 0.3.2-1
+Architecture: iphoneos-arm
+Maintainer: Oliver Kuckertz <oliver.kuckertz+nxboot@mologie.de>
+Depends: firmware(>=9.0), shell-cmds
+Filename: pool/com.mologie.NXBoot_0.3.2-1_iphoneos-arm.deb
+Size: 1549988
+MD5sum: 5dba044a8dae62541c7c7af6f235b3fd
+SHA1: 2341100603b9bf1ee611d3220ed180f450c9bd04
+SHA256: e31bd5b9a13e33119c291f7e3584b40089ccfb1ffe07f20d29a85225f10bf863
+Section: Utilities
+Homepage: https://mologie.github.io/nxboot/
+Description: Nintendo Switch Tegra X1 RCM exploit (Fusée Gelée / ShofEL2)
+Author: Oliver Kuckertz <oliver.kuckertz+nxboot@mologie.de>
+Depiction: https://mologie.github.io/nxboot/cydia-depiction.html
+Icon: file:///Applications/NXBoot.app/PackageIcon.png
+Name: NXBoot
+
+Package: com.mologie.NXBoot
+Version: 0.3.2-1
+Architecture: iphoneos-arm64
+Maintainer: Oliver Kuckertz <oliver.kuckertz+nxboot@mologie.de>
+Depends: firmware(>=9.0), shell-cmds
+Filename: pool/com.mologie.NXBoot_0.3.2-1_iphoneos-arm64.deb
+Size: 1036754
+MD5sum: 35ddac7bd57d44038f0cf992627c2bdb
+SHA1: d5a8b054d36a9fc807829bb26c3b42f509fc3b8d
+SHA256: 8491c7f850ee09e3f41abef38857a50a00bb49cc2ef366e3e2e15dfa66217d91
+Section: Utilities
+Homepage: https://mologie.github.io/nxboot/
+Description: Nintendo Switch Tegra X1 RCM exploit (Fusée Gelée / ShofEL2)
+Author: Oliver Kuckertz <oliver.kuckertz+nxboot@mologie.de>
+Depiction: https://mologie.github.io/nxboot/cydia-depiction.html
+Icon: file:///Applications/NXBoot.app/PackageIcon.png
+Name: NXBoot
+
